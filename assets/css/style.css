@@ -109,3 +109,7 @@ p.brand-font{
 	font-size: 20px;
 	margin: 0px;
 }
+
+.library-card{
+	height: 170px;
+}
